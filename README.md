@@ -1,5 +1,5 @@
 # US-Flights_Delaysandcancellation
-# Tebleau Story for 2015 U.S. Flight Delays
+# Tableau Story for 2015 U.S. Flight Delays
 
 ## Summary
 
