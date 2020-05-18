@@ -12,7 +12,7 @@ The purpose of my visualizations is to answer the following questions:
 
 - Second visualization uses the bar chart which is comparing two categorical value. As it is showing how the airline and departure delays varying over the weeks in different Airlines. Also, this visualization utilizes the high data ink ratio eliminating the chart junks.
 
-- Third visualization uses color blind palette covering all type of audiences also utilizes line plot to visualize the time period.
+- Third visualization uses color blind palette covering all type of audiences, it also utilizes line plot to visualize the time period.
 
 The final iteration of the visualizations
 can be viewed
